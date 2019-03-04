@@ -21,6 +21,8 @@ with tf.Session() as sess:
     print(output)
 
 ```
-@[1](Definiowanie stałych) @[2](Węzeł obliczniowy) @[3](Wywołanie sesji)
+@[1-2](Definiowanie stałych) 
+@[4](Węzeł obliczniowy) 
+@[7-9](Wywołanie sesji)
 
 ---
