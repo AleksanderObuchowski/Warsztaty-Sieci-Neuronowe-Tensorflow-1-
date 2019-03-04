@@ -31,14 +31,16 @@ with tf.Session() as sess:
 @[7-9](Wywołanie sesji)
 
 ---?color=gray
-@color[white](# Import danych)
+# Import danych
+
 ``` Python
 from tensorflow.contrib.learn.python.learn.datasets.mnist import read_data_sets
 
 mnist = read_data_sets("/tmp/data",one_hot = True)
 ```
 ---?color=gray
-@color[white](# Wyświetlanie obrazka)
+
+# Wyświetlanie obrazka
 
 ``` Python
 import matplotlib.pyplot as plt
