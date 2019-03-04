@@ -12,7 +12,7 @@
 ``` Python
 import tensorflow as tf
 ```
----?color=gray
+@snap[north-east template-note text-white]
 # Prosty graf
 ``` Python
 x1 = tf.constant(5)
