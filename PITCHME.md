@@ -1,4 +1,4 @@
-+++?color=lavender
++++?color=gray
 
 
 # Sieci Neuronowe i Tensorflow 1: Prosta sieć neuronowa
@@ -6,13 +6,13 @@
 
 **Aleksander Obuchowski**
 
----
+---?color=gray
 
 # Import Biblioteki
 ``` Python
 import tensorflow as tf
 ```
----
+---?color=gray
 # Prosty graf
 ``` Python
 x1 = tf.constant(5)
