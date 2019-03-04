@@ -49,8 +49,9 @@ img= mnist.test.images[3].reshape((28,28))
 plt.imshow(img,cmap="Greys")
 
 plt.show()
-'''
+```
 @[1](Import Biblioteki)
 @[3](Przekształcenie elementu ze zbioru na macierz o wymiarach 28x28
 @[4](Przedstawienie macierzy jako mape szarości)
 @[6](Wyświetlenie obrazka)
+---
