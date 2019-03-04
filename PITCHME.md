@@ -1,4 +1,9 @@
++++?color=lavender
+
+
 # Sieci Neuronowe i Tensorflow 1: Prosta sieć neuronowa
+
+
 **Aleksander Obuchowski**
 
 ---
